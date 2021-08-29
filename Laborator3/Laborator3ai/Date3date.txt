@@ -1,0 +1,87 @@
+Solutia are valoarea: 133848 si are greutea 112648. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 132900 si are greutea 112600. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 133148 si are greutea 112648. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 133045 si are greutea 112545. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 134255 si are greutea 112555. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 133245 si are greutea 112645. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 132832 si are greutea 112632. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 133023 si are greutea 112623. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 133044 si are greutea 112644. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+Solutia are valoarea: 133045 si are greutea 112545. Populatia este formata din: 100 , s-a obtinut dupa si 10 generatii cu probabilitatea de incrucisare: 0.4.
+
+Solutia are valoarea: 133446 si are greutea 112646. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133304 si are greutea 112604. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133503 si are greutea 112603. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133229 si are greutea 112629. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133543 si are greutea 112643. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133737 si are greutea 112537. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133304 si are greutea 112604. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 134255 si are greutea 112555. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133848 si are greutea 112648. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133446 si are greutea 112646. Populatia este formata din: 100 , s-a obtinut dupa si 20 generatii cu probabilitatea de incrucisare: 0.8.
+
+Solutia are valoarea: 133836 si are greutea 112636. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133619 si are greutea 112619. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133927 si are greutea 112627. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133533 si are greutea 112633. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133441 si are greutea 112641. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133918 si are greutea 112618. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 134613 si are greutea 112613. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133637 si are greutea 112637. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133838 si are greutea 112538. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133139 si are greutea 112639. Populatia este formata din: 150 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+
+Solutia are valoarea: 133612 si are greutea 112612. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 134441 si are greutea 112641. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133717 si are greutea 112617. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133639 si are greutea 112639. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 134235 si are greutea 112635. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133547 si are greutea 112647. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133980 si are greutea 112580. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133336 si are greutea 112636. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 134007 si are greutea 112607. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133348 si are greutea 112648. Populatia este formata din: 150 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6.
+
+Solutia are valoarea: 133838 si are greutea 112638. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133509 si are greutea 112609. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133388 si are greutea 112588. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133189 si are greutea 112589. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133737 si are greutea 112637. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133742 si are greutea 112642. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133442 si are greutea 112642. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133811 si are greutea 112611. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133903 si are greutea 112603. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134144 si are greutea 112644. Populatia este formata din: 150 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.5.
+
+Solutia are valoarea: 133945 si are greutea 112645. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 134200 si are greutea 112600. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133448 si are greutea 112648. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133954 si are greutea 112554. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133726 si are greutea 112626. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133740 si are greutea 112640. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133401 si are greutea 112601. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 134094 si are greutea 112594. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133980 si are greutea 112580. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+Solutia are valoarea: 133848 si are greutea 112648. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.8.
+
+Solutia are valoarea: 134408 si are greutea 112608. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 134283 si are greutea 112583. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133628 si are greutea 112628. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 134048 si are greutea 112648. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133836 si are greutea 112636. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 134347 si are greutea 112647. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133547 si are greutea 112647. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133936 si are greutea 112636. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133724 si are greutea 112624. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+Solutia are valoarea: 133210 si are greutea 112610. Populatia este formata din: 200 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.6.
+
+Solutia are valoarea: 133830 si are greutea 112630. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134446 si are greutea 112646. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134327 si are greutea 112627. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134100 si are greutea 112600. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134137 si are greutea 112637. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134024 si are greutea 112624. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134238 si are greutea 112638. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133745 si are greutea 112645. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 133728 si are greutea 112628. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.
+Solutia are valoarea: 134145 si are greutea 112645. Populatia este formata din: 200 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.5.

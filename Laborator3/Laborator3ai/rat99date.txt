@@ -1,0 +1,54 @@
+Solutia are valoarea: 3504. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3722. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3633. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3504. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3564. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3546. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3697. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3735. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3454. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3940. Populatia este formata din: 100 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+
+Solutia are valoarea: 2815. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2994. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2684. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2833. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2926. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2567. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2754. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2855. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2969. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+Solutia are valoarea: 2910. Populatia este formata din: 100 , s-a obtinut dupa si 100 generatii cu probabilitatea de incrucisare: 0.6 si tournir:50.
+
+Solutia are valoarea: 2582. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2290. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2121. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2058. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2170. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2452. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2533. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2334. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2651. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+Solutia are valoarea: 2235. Populatia este formata din: 100 , s-a obtinut dupa si 200 generatii cu probabilitatea de incrucisare: 0.6 si tournir:90.
+
+Solutia are valoarea: 3172. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3353. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3425. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3484. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3121. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3143. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3558. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3172. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3425. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+Solutia are valoarea: 3454. Populatia este formata din: 200 , s-a obtinut dupa si 50 generatii cu probabilitatea de incrucisare: 0.6 si tournir:20.
+
+Solutia are valoarea: 2478. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2189. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2486. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2411. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2162. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2155. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2343. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2274. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2513. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.
+Solutia are valoarea: 2146. Populatia este formata din: 300 , s-a obtinut dupa si 150 generatii cu probabilitatea de incrucisare: 0.8 si tournir:90.

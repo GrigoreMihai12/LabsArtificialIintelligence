@@ -1,0 +1,6 @@
+Solutia are valoarea: 664 si are greutea 481. S-a obtinut dupa 100 interatii si 45 iteratii tabu.
+Solutia are valoarea: 698 si are greutea 517. S-a obtinut dupa 100 interatii si 50 iteratii tabu.
+Solutia are valoarea: 675 si are greutea 516. S-a obtinut dupa 100 interatii si 70 iteratii tabu.
+Solutia are valoarea: 684 si are greutea 523. S-a obtinut dupa 100 interatii si 66 iteratii tabu.
+Solutia are valoarea: 130940 si are greutea 112640. S-a obtinut dupa 10 interatii si 10 iteratii tabu.
+Solutia are valoarea: 131084 si are greutea 112584. S-a obtinut dupa 11 interatii si 2 iteratii tabu.
